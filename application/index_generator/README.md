@@ -3,6 +3,7 @@
 트럼프 지수(TSUI, Trump Statement Uncertainty Index) 산출을 위한 모듈화된 Python 패키지입니다.
 
 # 의존성 설치
+```
 pip install -r requirements.txt
 ```
 
